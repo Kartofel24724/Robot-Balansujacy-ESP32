@@ -1,4 +1,4 @@
-## Robot balansujący na 2 kołach działający na ESP32
+## Robot balansujący działający na ESP32
 
 ## lista części:
 
