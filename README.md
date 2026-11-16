@@ -1,6 +1,6 @@
 ## Robot balansujący ESP32
 
-## lista części:
+## Lista części:
 
 Elektronika:
 
@@ -16,6 +16,7 @@ Elektronika:
 - złącze ARK 2.54mm
 - para złącz XT60/XT30
 - kable i koszyk na akumulatory
+- customowa płytka PCB
 
 Reszta części:
 
