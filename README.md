@@ -1,4 +1,4 @@
-## Robot balansujący działający na ESP32
+## Robot balansujący ESP32
 
 ## lista części:
 
