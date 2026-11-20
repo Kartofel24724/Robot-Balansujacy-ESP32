@@ -204,7 +204,7 @@ void balanceTask(void *parameter){
 
     float vR = motorR->getCurrentSpeedInMilliHz() / 1000.0f;
     float vL = -motorL->getCurrentSpeedInMilliHz() / 1000.0f;
-    float vAct = 0.5f + (vL + vR);
+    float vAct = 0.5f * (vL + vR);
 
     speedFilter += 0.025f * (vAct - speedFilter);
     float vErr = speedFilter - cmd;
